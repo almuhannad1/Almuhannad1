@@ -1,7 +1,7 @@
 # Hay, Welcome 
 ### I'm Almuhannad Saif
 
-Software Developer ,apart from my passion for numerous software projects across diverse sectors, I am also deeply interested in open source software. I firmly believe that self-improvement in any field is driven by hope and enthusiasm.
+Software Developer ,apart from my passion for numerous software projects across diverse sectors, I am also deeply interested in open source projects. I firmly believe that self-improvement in any field is driven by hope and enthusiasm.
 ______
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almuhannad1)](https://github.com/anuraghazra/github-readme-stats)
 ______
